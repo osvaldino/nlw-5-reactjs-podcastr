@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+server.jsonZone.Identifier
+.gitignore
+server.json:Zone.Identifier
